@@ -1,16 +1,6 @@
-# Basic Sample Hardhat Project
+# Fledd Domain Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates a NFT minting service that creates a unique domain (*.fledd) and gives the user the opportunity to bind a URL to it
+Try it: https://Fledd-Name-Service.fledd.repl.co
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-# Fledd-Name-Service
+(Currently Mumbai Testnet and no DNS)
